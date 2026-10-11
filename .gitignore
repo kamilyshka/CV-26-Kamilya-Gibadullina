@@ -4,11 +4,7 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 .pytest_cache/
-# данные не коммитятся — только data/README.md с тем, что скачать
-**/data/*
-!**/data/README.md
 *.pptx
-out/
 
 # Материалы ассистента живут в iu-intro-cv-ta и в публичный не попадают.
 labs/_template/
